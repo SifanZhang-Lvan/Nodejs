@@ -1,0 +1,8 @@
+{
+  "name": "sifan=tools",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "提供格式化方法",
+  "keywords": ["dateFormat"],
+  "license": "ISC"
+}
